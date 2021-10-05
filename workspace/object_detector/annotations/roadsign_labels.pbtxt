@@ -1,0 +1,29 @@
+item {
+  id: 1
+  name: 'trafficlight'
+}
+
+item {
+  id: 2
+  name: 'stop'
+}
+
+item {
+  id: 3
+  name: 'speedlimit'
+}
+
+item {
+  id: 4
+  name: 'crosswalk'
+}
+
+item {
+  id: 5
+  name: 'nostop'
+}
+
+item {
+  id: 6
+  name: 'yield'
+}
