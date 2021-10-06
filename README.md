@@ -5,7 +5,7 @@
  (Coming soon)
 
 # 2. Model
- (Comming soon)
+ (Coming soon)
 
 # 3. Data Cleaning
  (Coming soon)
