@@ -9,7 +9,7 @@
  (More coming soon. Overall, our model uses transfer learning where a pre-trained model (SSD ResNet50  
 V1) was used to train our very own custom object detection model.)
 
- * ![ResNet50 Model](https://tfhub.dev/tensorflow/retinanet/resnet50_v1_fpn_640x640/1)
+ * [ResNet50 Model](https://tfhub.dev/tensorflow/retinanet/resnet50_v1_fpn_640x640/1)
 
 # 3. Data Cleaning
  (Coming soon.)
