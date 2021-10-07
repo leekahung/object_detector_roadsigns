@@ -61,7 +61,7 @@ while i <= images_to_generate:
         n = n + 1
     
     # Setting augmented image path
-    new_image_path = "%s/augmented_road%s.png" %(augmented_dir, i)
+    new_image_path = "%s/augmented_yield%s.png" %(augmented_dir, i)
     
     # Processing transformed image to unsigned byte format
     transformed_image = img_as_ubyte(transformed_image)
